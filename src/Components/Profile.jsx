@@ -27,9 +27,9 @@ const AccountSettings = () => {
 
       <Section title="Mi información personal">
         <label>Name</label>
-        <input type="text" value="John Doe" />
+        <input type="text" placeholder="Jon Doe" />
         <label>Email</label>
-        <input type="email" value="john.doe@example.com" />
+        <input type="email" placeholder="john.doe@example.com" />
         <button>Save Changes</button>
       </Section>
 
