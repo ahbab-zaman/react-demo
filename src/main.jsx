@@ -12,7 +12,7 @@ const router = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: "/sidebar",
+        path: "/",
         element: <Sidebar />,
       },
       {

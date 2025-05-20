@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
       <ul className="header">
-        <Link to="/sidebar">
+        <Link to="/">
           <li className="list-item">Sidebar</li>
         </Link>
         <Link to="/cards">
